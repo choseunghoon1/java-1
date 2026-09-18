@@ -10,7 +10,7 @@
   - sample02-03 (원의 반지름 입력+ 원의 면적 계산)
   - sample02-04 (이름, 나이, 키, 몸무게 입력&출력)
 
-- week02_report
+- week02_report (https://o365kbu-my.sharepoint.com/:p:/g/personal/202617682_office_kbu_ac_kr/IQC8OUby9ur6SLiKl-EVRSgtAfOgGHuuqsHjmEqNZaAr26A?e=vOA394)
   - report1 (나이, 체중, 신장을 입력해 순서대로 출력)
   - report2 (정사각형면적-원의면적으로 남은면적을 계산하고 출력)
   - report2_class (3주차 수업때 교수님과 같이 진행한 과제2)
