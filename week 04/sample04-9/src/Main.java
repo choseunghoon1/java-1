@@ -11,7 +11,7 @@ void main() {
     System.out.printf("삼각형의 높이는 ? : ");
     height = keyboard.nextInt();
 
-    area = base * height / 2.0f;
+    area = base * height / 2.0f; // double 로 하면 f 지움
 
     System.out.printf("\n**** 삼각형의 넓이 구하기 ****\n");
     System.out.printf("\t밑변 : %d Cm\n", base);
