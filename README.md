@@ -54,17 +54,10 @@
   - report04-4 ()
  
 - week05
-  - sample05-1 ()
-  - sample05-2 ()
-  - sample05-3 ()
-  - sample05-4 ()
-  - sample05-5 ()
-  - sample05-6 ()
-  - sample05-7 ()
-  - sample05-8 ()
-  - sample05-9 ()
-  - sample05-10 ()
-  - sample05-11 ()
+  - sample05-1 (사각형 넓이, JAVA 05-5장 연산자(실습) 23페이지 )
+  - sample05-2 (결제 금액 (V, G, S, N), JAVA 05-5장 연산자(실습) 26페이지 )
+  - sample05-3 (거스름돈 계산 (사과, 배), JAVA 05-5장 연산자(실습) 32페이지 )
+  - sample05-4 (놀이 공원 (7세 ~ 65세), JAVA 05-5장 연산자(실습) 69페이지 )
 
 ## 🛠 Environment
 
