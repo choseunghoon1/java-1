@@ -46,6 +46,26 @@
   - sample04-10 (실습, 시간 구하기)
   - sample04-11 (실습, 이자 구하기)
 
+- week04_report
+  - 과제 링크
+  - report04-1 ()
+  - report04-2 ()
+  - report04-3 ()
+  - report04-4 ()
+ 
+- week05
+  - sample05-1 ()
+  - sample05-2 ()
+  - sample05-3 ()
+  - sample05-4 ()
+  - sample05-5 ()
+  - sample05-6 ()
+  - sample05-7 ()
+  - sample05-8 ()
+  - sample05-9 ()
+  - sample05-10 ()
+  - sample05-11 ()
+
 ## 🛠 Environment
 
 - Java
